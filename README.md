@@ -2,7 +2,7 @@
 
 - 🔭 I’m working as a Cloud Engineer with FinIQ Consulting Pvt Ltd
 - 📚 I'm currently Learning Kubernetes and everything related to Cloud/DevOps
-⚡ In my free time, I would Love to Collabarate on DevOps Project
+- ⚡ In my free time, I would Love to Collabarate on DevOps Project
 
 🛠 Language and tools
 - Source Code Management: Bitbucker, GitHub
