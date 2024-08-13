@@ -7,7 +7,7 @@
 🛠 Language and tools
 - Source Code Management: Bitbucker, GitHub
 - Configuration Management: Ansible
-- CI/CD:** Jenkins, Azure DevOps
+- CI/CD: Jenkins, Azure DevOps
 - Containerization & Orchestration:Docker, Kubernetes, Docker Compose
 - Infrastructure as Code (IaC):Terraform
 - Cloud Providers: AWS, Azure
