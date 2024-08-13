@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**sawantvarsha/sawantvarsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Kubernates and Ansible
 - 🌱 I’m currently learning Devops concepts in Advance
 - 👯 I’m looking to collaborate on DevOps Project
