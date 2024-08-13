@@ -1,10 +1,21 @@
-## Hi there 👋
+👩‍💻 About Me
 
-- 🔭 I’m currently working on Kubernates and Ansible
-- 🌱 I’m currently learning Devops concepts in Advance
-- 👯 I’m looking to collaborate on DevOps Project
-- 🤔 I’m looking for help with Kubernates
-- 💬 Ask me about DevOps Career Guidence
-- 📫 How to reach me: varshasawant306@gmail.com
-- ⚡ Fun fact: I love Travelling
+- 🔭 I’m working as a Cloud Engineer with FinIQ Consulting Pvt Ltd
+- 📚 I'm currently Learning Kubernetes and everything related to Cloud/DevOps
+⚡ In my free time, I would Love to Collabarate on DevOps Project
+
+🛠 Language and tools
+- Source Code Management: Bitbucker, GitHub
+- Configuration Management: Ansible
+- CI/CD:** Jenkins, Azure DevOps
+- Containerization & Orchestration:Docker, Kubernetes, Docker Compose
+- Infrastructure as Code (IaC):Terraform
+- Cloud Providers: AWS, Azure
+- Monitoring & Logging:Prometheus, Grafana, Cloudwatch
+- Artifact Management: Nexus
+- Static Code Analysis: SonarQube
+- Docker Image Scanning: Trivy
+
+
+
 
